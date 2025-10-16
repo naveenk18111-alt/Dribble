@@ -27,6 +27,7 @@ Publish the website in the LocalHost.
 
 # PROGRAM :
 ```
+
 <html>
 <head>
   <meta charset="UTF-8">
@@ -115,10 +116,10 @@ Publish the website in the LocalHost.
       <div class="row g-4">
         <div class="col-md-4">
           <div class="card border-0">
-            <img src="space.jpeg" class="shot-img w-100" alt="Shot 1">
+            <img src="bh.jpg" class="shot-img w-100" alt="Shot 1">
             <div class="designer-meta">
               <div class="d-flex align-items-center gap-2">
-                <img src="space.jpeg" class="designer-avatar" alt="Avatar">
+                <img src="bh.jpg" class="designer-avatar" alt="Avatar">
                 <span class="fw-semibold">Rohith</span>
               </div>
               <span class="text-danger">❤️ 13082007</span>
@@ -127,10 +128,10 @@ Publish the website in the LocalHost.
         </div>
         <div class="col-md-4">
           <div class="card border-0">
-            <img src="sriman.jpeg" class="shot-img w-100" alt="Shot 1">
+            <img src="lion.jpg" class="shot-img w-100" alt="Shot 1">
             <div class="designer-meta">
               <div class="d-flex align-items-center gap-2">
-                <img src="sriman.jpeg" class="designer-avatar" alt="Avatar">
+                <img src="lion.jpg" class="designer-avatar" alt="Avatar">
                 <span class="fw-semibold">Sekar</span>
               </div>
               <span class="text-danger">❤️ 13082007</span>
@@ -139,10 +140,10 @@ Publish the website in the LocalHost.
         </div>
         <div class="col-md-4">
           <div class="card border-0">
-            <img src="thanzil.jpeg" class="shot-img w-100" alt="Shot 1">
+            <img src="whale.webp" class="shot-img w-100" alt="Shot 1">
             <div class="designer-meta">
               <div class="d-flex align-items-center gap-2">
-                <img src="thanzil.jpeg" class="designer-avatar" alt="Avatar">
+                <img src="whale.webp" class="designer-avatar" alt="Avatar">
                 <span class="fw-semibold">Thanzil</span>
               </div>
               <span class="text-danger">❤️ 13082007</span>
@@ -151,10 +152,10 @@ Publish the website in the LocalHost.
         </div>
         <div class="col-md-4">
           <div class="card border-0">
-            <img src="catu.jpeg" class="shot-img w-100" alt="Shot 2">
+            <img src="cat.jpg" class="shot-img w-100" alt="Shot 2">
             <div class="designer-meta">
               <div class="d-flex align-items-center gap-2">
-                <img src="catu.jpeg" class="designer-avatar" alt="Avatar">
+                <img src="cat.jpg" class="designer-avatar" alt="Avatar">
                 <span class="fw-semibold">Navaneeth</span>
               </div>
               <span class="text-danger">❤️ 23052007</span>
@@ -163,10 +164,10 @@ Publish the website in the LocalHost.
         </div>
         <div class="col-md-4">
           <div class="card border-0">
-            <img src="sea.jpeg" class="shot-img w-100" alt="Shot 3">
+            <img src="beach-sea-18378306.webp" class="shot-img w-100" alt="Shot 3">
             <div class="designer-meta">
               <div class="d-flex align-items-center gap-2">
-                <img src="sea.jpeg" class="designer-avatar" alt="Avatar">
+                <img src="beach-sea-18378306.webp" class="designer-avatar" alt="Avatar">
                 <span class="fw-semibold">NAVIN</span>
               </div>
               <span class="text-danger">❤️ 23042007</span>
@@ -187,10 +188,10 @@ Publish the website in the LocalHost.
         </div>
         <div class="col-md-4">
           <div class="card border-0">
-            <img src="sanke.jpeg" class="shot-img w-100" alt="Shot 1">
+            <img src="snake.jpg" class="shot-img w-100" alt="Shot 1">
             <div class="designer-meta">
               <div class="d-flex align-items-center gap-2">
-                <img src="sanke.jpeg" class="designer-avatar" alt="Avatar">
+                <img src="snake.jpg" class="designer-avatar" alt="Avatar">
                 <span class="fw-semibold">Vedha</span>
               </div>
               <span class="text-danger">❤️ 13082007</span>
@@ -199,10 +200,10 @@ Publish the website in the LocalHost.
         </div>
         <div class="col-md-4">
           <div class="card border-0">
-            <img src="tiger.jpeg" class="shot-img w-100" alt="Shot 1">
+            <img src="tiger.jpg" class="shot-img w-100" alt="Shot 1">
             <div class="designer-meta">
               <div class="d-flex align-items-center gap-2">
-                <img src="tiger.jpeg" class="designer-avatar" alt="Avatar">
+                <img src="tiger.jpg" class="designer-avatar" alt="Avatar">
                 <span class="fw-semibold">Balaji</span>
               </div>
               <span class="text-danger">❤️ 13082007</span>
@@ -211,10 +212,10 @@ Publish the website in the LocalHost.
         </div>
         <div class="col-md-4">
           <div class="card border-0">
-            <img src="dog.jpeg" class="shot-img w-100" alt="Shot 1">
+            <img src="dog.webp" class="shot-img w-100" alt="Shot 1">
             <div class="designer-meta">
               <div class="d-flex align-items-center gap-2">
-                <img src="dog.jpeg" class="designer-avatar" alt="Avatar">
+                <img src="dog.webp" class="designer-avatar" alt="Avatar">
                 <span class="fw-semibold">deepak</span>
               </div>
               <span class="text-danger">❤️ 13082007</span>
